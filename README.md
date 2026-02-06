@@ -31,9 +31,3 @@ These tools are ready to use for **research, teaching, and applied projects** â€
 
 
 ---
-
-## ðŸš€ Getting Started
-1. **Browse** the list of models above or in the [`models`](./models) folder.
-2. **Clone** the repo or a specific model subfolder:
-   ```bash
-   git clone https://github.com/midas/model-zoo.git
