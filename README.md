@@ -36,12 +36,6 @@ These tools are ready to use for **research, teaching, and applied projects** â€
 |------------|--------|------|------|
 | `Example` | Example | Image Classification | [Repo Link](https://github.com/example) |
 
-
-
-
-
-
-| `Example` | Example | Image Classification | [Repo Link](https://github.com/example) |
-
-
 ---
+
+
