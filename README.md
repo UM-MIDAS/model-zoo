@@ -24,18 +24,23 @@ These tools are ready to use for **research, teaching, and applied projects** �
 
 ---
 
+## 📚 Available Datasets
+| Dataset| Domain | Task | Link | Creator |
+|------------|--------|------|------|---|
+| `AI validated plant observations from social media:` | Ecology | Image Classification | [Zenodo](https://zenodo.org/records/3514685) | Nathan Fox (MIDAS Staff)
+
+---
+
 ## 📚 Available Models - Coming Soon
-| Model Name | Domain | Task | Link |
+| Model | Domain | Task | Link |
 |------------|--------|------|------|
 | `Example` | Example | Image Classification | [Repo Link](https://github.com/example) |
 
 
----
 
 
-## 📚 Available Datasets - Coming Soon
-| Model Name | Domain | Task | Link |
-|------------|--------|------|------|
+
+
 | `Example` | Example | Image Classification | [Repo Link](https://github.com/example) |
 
 
