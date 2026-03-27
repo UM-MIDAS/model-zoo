@@ -1,17 +1,16 @@
-# 🐾 MIDAS Model Zoo 🐾
+# # 🐾 MIDAS Model Zoo 🐾
 
-The **MIDAS Model Zoo** is a growing library of open-source AI and data science tools, software, and models developed by researchers at the [Michigan Institute for Data & AI in Society (MIDAS)](https://midas.umich.edu).  
+The **MIDAS Model Zoo** is a growing open-source library of AI and data science tools, datasets, and models developed by researchers at the [Michigan Institute for Data & AI in Society (MIDAS)](https://midas.umich.edu) — ready to use for **research, teaching, and applied projects**.
 
-These tools are ready to use for **research, teaching, and applied projects**, covering everything from natural language processing and computer vision to geospatial AI and scientific modeling.  
+Browse pre-trained models with example usage, reproducible workflows, and documentation spanning a wide range of domains, including healthcare, environmental science, education, geospatial analysis, and more. All contributions are welcome!
 
 ---
 
-## Features
-- **Pre-trained models** with example usage
-- **Domain diversity** with models from healthcare, environmental science, education, social science, and more
-- **Reproducible** workflows with code and documentation
-- **Community-driven** with all contributions welcome!
-
+## Table of Contents
+- [Available Software](#available-software)
+- [Available Datasets](#available-datasets)
+- [Available Web Applications](#available-web-applications)
+- [Available Models - Coming Soon](#available-models---coming-soon)
 ---
 
 ## Available Software
