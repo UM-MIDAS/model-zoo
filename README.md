@@ -19,7 +19,7 @@ Browse pre-trained models with example usage, reproducible workflows, and docume
 |-------|--------|------|-----|------|-----|
 | `PyStarshade` | Astrophysics | PyStarshade is a Python library for Starshade (or any external occulter) simulations from star-planet system to CCD with Fresnel diffraction methods. This library efficiently calculates output fields using Bluestein FFTs. | [Repo](https://github.com/xiaziyna/PyStarshade) |[Paper](https://joss.theoj.org/papers/10.21105/joss.07917) |Jamila Taaki (MIDAS AI Fellow)
 | `isweep` | Statistical inference | Python package and a series of automated workflows to study natural selection with identity-by-descent (IBD) segments. The Python package simulates IBD segments around a locus and estimates selection coefficients. | [Repo](https://github.com/sdtemple/isweep) |[Paper](https://www.cell.com/ajhg/fulltext/S0002-9297(24)00333-1) [Paper 2](https://link.springer.com/article/10.1007/s11538-025-01464-8) [Paper 3](https://www.cell.com/ajhg/fulltext/S0002-9297(25)00360-X) [Paper 4](https://www.cell.com/ajhg/fulltext/S0002-9297(26)00035-2) |Seth Temple (MIDAS AI Fellow)
-| `isweep` | Statistical inference | R package for Pair-based Estimators of Infection and Removal Rates. Estimate infection and removal rates with partially observed removal and infection times. The following functions are the ones you would likely use, in order of relevance. | [Repo](https://github.com/sdtemple/isweep) |[Paper](https://arxiv.org/abs/2603.21992) |Seth Temple (MIDAS AI Fellow)
+| `peirrs` | Statistical inference | R package for Pair-based Estimators of Infection and Removal Rates. Estimate infection and removal rates with partially observed removal and infection times. The following functions are the ones you would likely use, in order of relevance. | [Repo](https://github.com/sdtemple/isweep) |[Paper](https://arxiv.org/abs/2603.21992) |Seth Temple (MIDAS AI Fellow)
 | `bifrost` | Evolution | Branch-level Inference Framework for Recognizing Optimal Shifts in Traits bifrost performs branch-level inference of multi-regime, multivariate trait evolution on a phylogeny using penalized-likelihood multivariate GLS fits.  | [Repo](https://github.com/jakeberv/bifrost) |[Cran](https://cran.r-project.org/web/packages/bifrost/index.html) |	Jacob Berv (MIDAS AI Fellow alum)
 | `PPGISr` | GIS | An R package for public participatory GIS | [Repo](https://github.com/GLISA-umich/PPGISr) | [Paper](https://www.sciencedirect.com/science/article/pii/S2352711023000857) |	Derek Van Berkel (MIDAS Faculty Affiliate)
 | `Urban-Worm` | Urban Planning | Urban-Worm is a Python library that integrates remote sensing imagery, street view data, and vision-language models (VLMs) to assess urban units. Using APIs for data collection and VLMs for inference, Urban-Worm is designed to support the automation of the evaluation for urban environments, including roof integrity, structural condition, landscape quality, and urban perception. | [Repo](https://github.com/land-info-lab/urbanworm) | [Documentation](https://land-info-lab.github.io/urbanworm/) |	Xiaohao Yang (SEAS PhD Student)
@@ -31,7 +31,7 @@ Browse pre-trained models with example usage, reproducible workflows, and docume
 ## Tutorials
 | Tutorial | Link | Creator |
 |------------|--------|------|
-| **`Fitting PyTorch models`** | [Zenodo](https://github.com/sdtemple/zootopia3) | Seth Temple (MIDAS AI Fellow)
+| **`Fitting PyTorch models`** | [GitHub](https://github.com/sdtemple/zootopia3) | Seth Temple (MIDAS AI Fellow)
 
 ---
 
